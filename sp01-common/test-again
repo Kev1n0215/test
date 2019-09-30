@@ -1,2 +1,6 @@
 test test test
+<<<<<<< HEAD
 1111111111111
+=======
+aaaaaaaaaaa
+>>>>>>> refs/heads/v1.1
